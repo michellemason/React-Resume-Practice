@@ -1,0 +1,33 @@
+body {
+    background-color: #F3EFE0;
+}
+
+.div1 {
+    margin: auto;
+    border: 15px solid #F7C326;
+    padding: 50px;
+    margin: 20px;
+  }
+
+#introduction, #education, #works, #Contact-section {
+    border: 7px solid #F7C326;
+    margin: auto;
+    padding: 50px;
+}
+
+#title-tag {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+#Contact-info img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 300px;
+  }
+
+  #Contact-info p {
+    text-align: center;
+  }
